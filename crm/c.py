@@ -1,7 +1,7 @@
 from pymilvus import MilvusClient
 import numpy as np
 import random
-
+# 这是测试用的
 # 创建 Milvus 客户端
 # 如果使用默认设置的本地 Milvus 服务，可以不传参数
 # 如果连接远程服务器，需要指定 uri
